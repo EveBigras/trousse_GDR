@@ -1,4 +1,6 @@
-# **Langue des métadonnées** 
+#
+
+## Langue des métadonnées 
 
 La langue des métadonnées peut être déterminée par le déposant de
 l’ensemble de données. Il est recommandé de choisir la langue qui
@@ -6,11 +8,9 @@ permettra la meilleure découvrabilité par le public cible et d’ajouter
 des métadonnées dans plus d’une langue au moyen du champ « Autre titre
 », « Mot-clé » et « Description ».
 
-# **Bloc des métadonnées de la référence bibliographique**
+## Bloc des métadonnées de la référence bibliographique 
 
-### 
-
-## Titre 
+### Titre 
 
 **Statut** : Recommandé
 
@@ -37,7 +37,7 @@ des métadonnées dans plus d’une langue au moyen du champ « Autre titre
 -   Monitoring the future: a continuing study of youth, 2010 \[United
     States\]
 
-## Sous-titre
+### Sous-titre
 
 **Statut** : Ne pas utiliser
 
@@ -50,7 +50,7 @@ déposant pour préciser ou limiter la portée du titre principal.
     l’élément « Sous-titre » ne serait pas compris dans la référence de
     l’ensemble de données générée automatiquement.
 
-## Autre titre 
+### Autre titre 
 
 **Statut** : Recommandé
 
@@ -72,7 +72,7 @@ traduit).
 
 -   Sondage sur les médias sociaux chez les adolescents
 
-## Autre URL 
+### Autre URL 
 
 **Statut** : Optionnel
 
@@ -94,7 +94,7 @@ consulté (ex. l’adresse du site Web du projet de recherche).
 
 -   <https://osf.io/px3m9/>
 
-## Autre identifiant 
+### Autre identifiant 
 
 **Métadonnées de cette section réfèrent à l’identifiant unique de
 l’ensemble de données généré par un autre dépôt de données**
@@ -139,7 +139,7 @@ autre dépôt (ex. DOI, handle, etc).
 
 -   <https://doi.org/10.5281/zenodo.3549866>
 
-## Auteur
+### Auteur
 
 **Métadonnées de cette section réfèrent aux personnes ou aux
 collectivités responsables de la création de l’ensemble de données**
@@ -218,7 +218,7 @@ données.
 
 -   <https://orcid.org/0000-0002-9322-3515>
 
-## Personne-ressource 
+### Personne-ressource 
 
 **Métadonnées de cette section réfèrent aux personnes ou aux
 collectivités à contacter en cas de questions sur de l’ensemble de
@@ -271,7 +271,7 @@ est affiliée.
 
 -   <constantin.tremblay@umontreal.ca>
 
-## Description 
+### Description 
 
 **Métadonnées de cette section réfèrent à la description de l’objectif,
 la nature ou la portée de l’ensemble de données**
@@ -317,7 +317,7 @@ déposant), la date d’attribution est utilisée pour les distinguer.
 
 -   2020-01-18
 
-## Sujet 
+### Sujet 
 
 **Statut** : Requis
 
@@ -327,7 +327,7 @@ déposant), la date d’attribution est utilisée pour les distinguer.
 
 -   Valider la valeur dans la liste déroulante.
 
-## Mot-clé 
+### Mot-clé 
 
 **Métadonnées de cette section réfèrent aux mots-clés employés pour
 décrire le sujet de l’ensemble de données**
@@ -376,7 +376,7 @@ Pour les mots-clés en anglais : valider la conformité avec FAST
 
 -   <https://rvmweb.bibl.ulaval.ca/rvmfast/initMoteurRecherche.do>
 
-## Classification par sujets
+### Classification par sujets
 
 **Métadonnées de cette section réfèrent aux termes provenant d’un
 vocabulaire contrôlé employé pour décrire le sujet de l’ensemble de
@@ -413,7 +413,7 @@ l’ensemble de données.
 
 -   Privilégier l’élément « Mot-clé » pour consigner les descripteurs.
 
-## Publication connexe
+### Publication connexe
 
 #### Métadonnées de cette section réfèrent aux publications reliées à l’ensemble de données
 
@@ -495,7 +495,7 @@ déroulante.
 
 -   <http://angusreid.org/three-in-four-canadians-call-airlines-new-checked-baggage-fees-unacceptable-money-grab/>
 
-## Remarques 
+### Remarques 
 
 **Statut** : Optionnel
 
@@ -514,7 +514,7 @@ données.
     de l’étude avec ceux d’autres études qui ont eu recours à des
     entrevues par téléphone.
 
-## Langue 
+### Langue 
 
 **Statut** : Recommandé
 
@@ -528,7 +528,7 @@ données.
 
 -   Français
 
-## Producteur 
+### Producteur 
 
 **Métadonnées de cette section réfèrent aux personnes ou aux
 collectivités ayant la responsabilité financière ou administrative sur
@@ -578,8 +578,6 @@ identifié.
 -   Valider l’acronyme si fourni par le déposant ou saisir le si
     facilement disponible.
 
-#### 
-
 #### Adresse URL 
 
 **Statut** : Optionnel
@@ -607,7 +605,7 @@ producteur.
 
 -   Inclure le préfixe « http » ou « https », le cas échéant.
 
-## Date de production 
+### Date de production 
 
 **Statut** : Recommandé
 
@@ -623,7 +621,7 @@ la diffusion.
 
 -   2016-09
 
-## Endroit de production 
+### Endroit de production 
 
 **Statut** : Optionnel
 
@@ -642,7 +640,7 @@ documentation d’accompagnement.
 
 -   Québec (Province)--Montréal
 
-## Collaborateur
+### Collaborateur
 
 **Métadonnées de cette section réfèrent aux personnes ou aux
 collectivités ayant apporté une contribution à la création de l’ensemble
@@ -682,7 +680,7 @@ une contribution à la création de l’ensemble de données.
 
 -   Dupuis, Jean
 
-## Renseignements sur la subvention 
+### Renseignements sur la subvention 
 
 **Métadonnées de cette section réfèrent aux subventions octroyées pour
 le projet recherche**
@@ -721,7 +719,7 @@ recherche.
 
 -   CCB123456
 
-## Diffuseur 
+### Diffuseur 
 
 **Métadonnées de cette section réfèrent aux collectivités désignées par
 le créateur ou le producteur pour gérer la distribution des données (ex.
@@ -770,8 +768,6 @@ identifié.
 -   Valider l’acronyme si fourni par le déposant ou saisir le si
     facilement disponible.
 
-#### 
-
 #### Adresse URL 
 
 **Statut** : Optionnel
@@ -800,7 +796,7 @@ diffuseur de l’ensemble des données.
 
 -   Inclure le préfixe « http » ou « https », le cas échéant.
 
-## Date de disponibilité 
+### Date de disponibilité 
 
 **Statut** : Optionnel
 
@@ -816,7 +812,7 @@ données a été rendu disponible pour la diffusion dans un dépôt).
 
 -   2018-09
 
-## Déposant
+### Déposant
 
 **Statut** : Valeur générée automatiquement
 
@@ -830,7 +826,7 @@ données a été rendu disponible pour la diffusion dans un dépôt).
 
 -   Dupuis, Jean
 
-## Date de dépôt 
+### Date de dépôt 
 
 **Statut** : Valeur générée automatiquement
 
@@ -845,7 +841,7 @@ documentation d’accompagnement ont été déposés.
 
 -   2018-09-10
 
-## Période couverte
+### Période couverte
 
 #### Métadonnées de cette section réfèrent à la période de couverture des données et non de la collecte, l’analyse ou la diffusion de l’ensemble de données
 
@@ -877,7 +873,7 @@ documentation d’accompagnement ont été déposés.
 
 -   2019-12
 
-## Date de la collecte 
+### Date de la collecte 
 
 #### Métadonnées de cette section réfèrent à la période de la collecte des données 
 
@@ -910,7 +906,7 @@ données.
 
 -   2020-01-20
 
-## Type de données 
+### Type de données 
 
 **Statut** : Recommandé
 
@@ -937,7 +933,7 @@ données.
 
 -   Données d’observation
 
-## Série 
+### Série 
 
 **Métadonnées de cette section réfèrent à l’information sur la
 série/collection à laquelle appartient l’ensemble de données**
@@ -970,7 +966,7 @@ laquelle appartient l’ensemble de données.
 -   Valider la pertinence du contenu dans la perspective de la
     description bibliographique ainsi que son orthographe.
 
-## Logiciel 
+### Logiciel 
 
 **Métadonnées de cette section réfèrent à l’information sur le logiciel
 utilisé pour générer l’ensemble de données**
@@ -1007,7 +1003,7 @@ données.
 
 -   24
 
-## Documentation connexe 
+### Documentation connexe 
 
 **Statut** : Optionnel
 
@@ -1023,7 +1019,7 @@ données.
 rapport \[Canada\]. YCDP, Queen’s University, 2016.
 <http://dataverse.scholarsportal.info/queensu/2016report.pdf>
 
-## Ensemble de données connexe 
+### Ensemble de données connexe 
 
 **Statut** : Optionnel
 
@@ -1041,7 +1037,7 @@ provenant des études précédentes sur le sujet).
     \[Canada\]. YCDP, Queen’s University, 2011.
     <http://dataverse.scholarsportal.info/queensu/2010data.xhtml>
 
-## Autres références 
+### Autres références 
 
 **Statut** : Optionnel
 
@@ -1059,7 +1055,7 @@ le contexte de l’ensemble de données.
     du sondage, 2015 \[Canada\]. YCDP, Queen’s University, 2016.
     <http://dataverse.scholarsportal.info/queensu/2016questionnaire.pdf>
 
-## Source des données 
+### Source des données 
 
 **Statut** : Recommandé
 
@@ -1078,7 +1074,7 @@ organismes gouvernementaux) faisant partie de l’ensemble.
     métropolitaine de recensement. ENM 2011, Statistique Canada.
     <https://www12.statcan.gc.ca/nhsenm/2011/dppd/prof/index.cfm?Lang=F>
 
-## Origine des sources 
+### Origine des sources 
 
 **Statut** : Optionnel
 
@@ -1090,7 +1086,7 @@ externes faisant partie de l’ensemble.
 -   Valider les renseignements si fournis par le déposant ou les saisir
     si facilement disponibles.
 
-## Caractéristiques des sources notées 
+### Caractéristiques des sources notées 
 
 **Statut** : Optionnel
 
@@ -1102,7 +1098,7 @@ externes faisant partie de l’ensemble.
 -   Valider les renseignements si fournis par le déposant ou les saisir
     si facilement disponible.
 
-## Documentation et accès aux sources 
+### Documentation et accès aux sources 
 
 **Statut** : Optionnel
 
@@ -1114,9 +1110,9 @@ externes faisant partie de l’ensemble.
 -   Valider les renseignements si fournis par le déposant ou les saisir
     si facilement disponible.
 
-# **Bloc des métadonnées géospatiales**
+## **Bloc des métadonnées géospatiales**
 
-## Couverture géographique 
+### Couverture géographique 
 
 **Les métadonnées dans cette section réfèrent aux renseignements sur la
 couverture géographique des données.**
@@ -1196,9 +1192,9 @@ des données.
 
 -   Parc des Champs-de-Bataille
 
-# Bloc des métadonnées en sciences sociales et humaines 
+## Bloc des métadonnées en sciences sociales et humaines 
 
-## Unité d’analyse 
+### Unité d’analyse 
 
 **Statut** : Recommandé
 
@@ -1217,7 +1213,7 @@ groupes, établissements/organisations, unités administratives et autres.
 
 -   Individual
 
-## Univers 
+### Univers 
 
 **Statut** : Recommandé
 
@@ -1249,7 +1245,7 @@ son orthographe.
 
 Source: <https://doi.org/10.5683/SP/D6NISS>
 
-## Méthode temporelle 
+### Méthode temporelle 
 
 **Statut** : Recommandé
 
@@ -1269,7 +1265,7 @@ la collecte des données
 
 -   Longitudinal: Panel
 
-## Responsable de la collecte de données 
+### Responsable de la collecte de données 
 
 **Statut** : Recommandé
 
@@ -1283,7 +1279,7 @@ du questionnaire, de l'entrevue ou de la compilation des données.
 -   Trained student interviewers, both anglophone and francophone.
     Source: https://hdl.handle.net/10864/ZJ17A
 
-## Formation du responsable de la collecte de données 
+### Formation du responsable de la collecte de données 
 
 **Statut** : Optionnel
 
@@ -1308,7 +1304,7 @@ son orthographe.
     selected households were employed throughout the survey.” Source:
     <https://doi.org/10.7910/DVN/YT09KD>
 
-## Fréquence 
+### Fréquence 
 
 **Statut **: Optionnel
 
@@ -1329,7 +1325,7 @@ son orthographe.
 
 -   Hourly. Source: <https://doi.org/10.5683/SP/KYKL9M>
 
-## Méthode d’échantillonnage 
+### Méthode d’échantillonnage 
 
 **Statut** : Recommandé
 
@@ -1346,7 +1342,7 @@ représenter la population.
 
 -   Probability: Simple random
 
-## Taille de l’échantillon cible 
+### Taille de l’échantillon cible 
 
 **Les métadonnées dans cette section référent aux renseignements précis
 sur la taille de l'échantillon cible, la taille réelle de l'échantillon
@@ -1388,7 +1384,7 @@ littérature savante existante.
     K7C, K7G, K7H, K7K, K7L, K7M, K7N, K7P, K7R, K8N, K8P, K8R, K8V,
     K0E, K0G, K0H, K0K.
 
-## Écarts importants pour le plan d’échantillonnage 
+### Écarts importants pour le plan d’échantillonnage 
 
 **Statut** : Optionnel
 
@@ -1416,7 +1412,7 @@ ensemble.
 -   Oversample of persons 50 and older. Source:
     <https://doi.org/10.7910/DVN/FGTJGO>
 
-## Mode de collecte 
+### Mode de collecte 
 
 **Statut** : Recommandé
 
@@ -1435,7 +1431,7 @@ la poste ou autre).
 
 -   Interview
 
-## Type d’instrument de recherche
+### Type d’instrument de recherche
 
 **Statut** :Recommandé
 
@@ -1460,7 +1456,7 @@ approfondies ont été réalisées.
 
 -   Questionnaire
 
-## Caractéristiques de la collecte de données 
+### Caractéristiques de la collecte de données 
 
 **Statut** : Optionnel
 
@@ -1482,7 +1478,7 @@ ou des éléments similaires).
     interviewer bias/assumptions to influence the survey results.
     Source: <https://hdl.handle.net/10864/ZJ17A>
 
-## Mesures visant à minimiser les pertes 
+### Mesures visant à minimiser les pertes 
 
 **Statut** : Optionnel
 
@@ -1503,7 +1499,7 @@ correspondances historiques, les estimations, etc.
 -   Cards reminding parents about the follow-up visit were given out.
     Source: <https://doi.org/10.7939/DVN/10889>
 
-## Opérations de contrôle 
+### Opérations de contrôle 
 
 **Statut** : Optionnel
 
@@ -1523,7 +1519,7 @@ données. Optionnel
 -   Blinded double data entry and third person cross-validation were
     used. Source: <https://doi.org/10.7939/DVN/10900>
 
-## Pondération 
+### Pondération 
 
 **Statut** : Recommandé
 
@@ -1561,7 +1557,7 @@ indiquée.
     Alberta population estimates. Source:
     <https://doi.org/10.7939/DVN/10813>
 
-## Opérations de nettoyage 
+### Opérations de nettoyage 
 
 **Statut** : Optionnel
 
@@ -1594,7 +1590,7 @@ autre.
     included in the final analyses. Source:
     <https://doi.org/10.7939/DVN/10910>
 
-## Remarques générales d’erreur 
+### Remarques générales d’erreur 
 
 **Statut** : Optionnel
 
@@ -1622,7 +1618,7 @@ le traitement de l'enquête
     micro level when required. Source:
     <http://hdl.handle.net/11272/10619>
 
-## Taux de réponse 
+### Taux de réponse 
 
 **Statut** : Recommandé
 
@@ -1644,7 +1640,7 @@ des renseignements.
 -   At one-month follow-up: 60.2% (n=136/226). Source:
     <https://doi.org/10.7939/DVN/10889>
 
-## Estimation de l’erreur d’échantillonnage 
+### Estimation de l’erreur d’échantillonnage 
 
 **Statut** : Recommandé
 
@@ -1665,7 +1661,7 @@ intervalles de confiance, la non-réponse, le biais de réponse.
 -   \+ or - 2.5%; design effect of weighting not calculated. Source:
     <https://doi.org/10.7910/DVN/FGTJGO>
 
-## Autres formes d’évaluation des données 
+### Autres formes d’évaluation des données 
 
 **Statut** : Optionnel
 
@@ -1685,7 +1681,7 @@ la question ou autre élément similaire.
     measure of perceived distress. Source:
     https://doi.org/10.7939/DVN/10841
 
-## Remarques 
+### Remarques 
 
 **Les métadonnées dans cette section référent aux renseignements
 spécifiques sur cet ensemble de données.**
